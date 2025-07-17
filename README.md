@@ -187,7 +187,7 @@ goru-final/
 4. Time-based Cleanup: 5 saniye eski tespitleri temizle
 ```
 
-**Sonuç:** %60 duplikasyon azalması (30 TL → 0 TL test sonucu)
+**Sonuç:** %60 duplikasyon azalması
 
 ### Duplikasyon Önleme
 
@@ -247,13 +247,6 @@ Python 3.8+
 - **Revenue tracking:** Gelir analizi
 - **Customer behavior:** Müşteri davranış analizi
 - **Inventory management:** Stok takibi
-- **Predictive analytics:** Talep tahmini
-
-## Geliştirici
-
-**GitHub Copilot Assistant**  
-_Tarih_: Ocak 2025  
-_Versiyon_: 1.0 (Production Ready)
 
 ---
 
