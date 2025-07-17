@@ -250,4 +250,4 @@ Python 3.8+
 
 ---
 
-**Not**: Bu proje Bilgisayarlı Görüye Giriş dersi Final projesi olarak geliştirilmiştir.
+**Not**: Bu proje Bilgisayarlı Görüye Giriş dersi projesi olarak geliştirilmiştir.
